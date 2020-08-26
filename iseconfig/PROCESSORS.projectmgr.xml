@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="PROCESSORS" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU E:|LABs|PROCESSORS|ALU.v</ClosedNode>
+         <ClosedNode>/ALU E:|LABs|PROCESSORS|ALU.v/type1 - Addition</ClosedNode>
+         <ClosedNode>/ALU E:|LABs|PROCESSORS|ALU.v/type2 - Substraction</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ALU_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ALU_TB.v/uut - ALU</ClosedNode>
+         <ClosedNode>/Addition E:|LABs|PROCESSORS|Addition.v</ClosedNode>
+         <ClosedNode>/Addition E:|LABs|PROCESSORS|Addition.v/Add - add_sub_8bit</ClosedNode>
+         <ClosedNode>/DataMemoryBlock E:|LABs|PROCESSORS|DataMemoryBlock.v</ClosedNode>
+         <ClosedNode>/ExecutionBlock_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ExecutionBlock_TB.v</ClosedNode>
+         <ClosedNode>/ExecutionBlock_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ExecutionBlock_TB.v/uut - ExecutionBlock</ClosedNode>
+         <ClosedNode>/MainModule E:|LABs|PROCESSORS|MainModule.v/DataMemoryBlock - DataMemoryBlock</ClosedNode>
+         <ClosedNode>/MainModule E:|LABs|PROCESSORS|MainModule.v/ExecutionBlock - ExecutionBlock</ClosedNode>
+         <ClosedNode>/MainModule E:|LABs|PROCESSORS|MainModule.v/ins1 - ExecutionBlock</ClosedNode>
+         <ClosedNode>/PCIM E:|LABs|PROCESSORS|PCIM.v</ClosedNode>
+         <ClosedNode>/add_sub_8bit E:|LABs|PROCESSORS|add_sub_4bit.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>PM - Program_Memory</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018d0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>PM - Program_Memory</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000155000000010000000100000000000000000000000064ffffffff000000810000000000000001000001550000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff000000810000000000000004000000860000000100000000000000d70000000100000000000000660000000100000000000001cf0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>PCIM.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU E:|LABs|PROCESSORS|ALU.v</ClosedNode>
+         <ClosedNode>/ALU E:|LABs|PROCESSORS|ALU.v/type1 - Addition</ClosedNode>
+         <ClosedNode>/ALU_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ALU_TB.v</ClosedNode>
+         <ClosedNode>/Addition E:|LABs|PROCESSORS|Addition.v</ClosedNode>
+         <ClosedNode>/DataMemoryBlock_TB E:|LABs|PROCESSORS|DataMemoryBlock_TB.v</ClosedNode>
+         <ClosedNode>/DependencyCheckBlock_TB E:|LABs|PROCESSORS|DependencyCheckBlock_TB.v</ClosedNode>
+         <ClosedNode>/ExecutionBlock_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ExecutionBlock_TB.v</ClosedNode>
+         <ClosedNode>/ExecutionBlock_TB C:|Users|student|Downloads|Subs|LAB1|.v files|ExecutionBlock_TB.v/uut - ExecutionBlock</ClosedNode>
+         <ClosedNode>/JumpControlBlock_TB E:|LABs|PROCESSORS|JumpControlBlock_TB.v</ClosedNode>
+         <ClosedNode>/MaiModule_TB E:|LABs|PROCESSORS|MaiModule_TB.v/uut - MainModule/ins1 - ExecutionBlock</ClosedNode>
+         <ClosedNode>/MaiModule_TB E:|LABs|PROCESSORS|MaiModule_TB.v/uut - MainModule/ins4 - DataMemoryBlock</ClosedNode>
+         <ClosedNode>/MainModule E:|LABs|PROCESSORS|MainModule.v</ClosedNode>
+         <ClosedNode>/PCIM_TB E:|LABs|PROCESSORS|PCIM_TB.v</ClosedNode>
+         <ClosedNode>/PCIM_TB E:|LABs|PROCESSORS|PCIM_TB.v/uut - PCIM</ClosedNode>
+         <ClosedNode>/RegisterBankBlock_TB E:|LABs|PROCESSORS|RegisterBankBlock_TB.v</ClosedNode>
+         <ClosedNode>/StallControllBlock_TB E:|LABs|PROCESSORS|StallControllBlock_TB.v</ClosedNode>
+         <ClosedNode>/add_sub_8bit C:|Users|student|Downloads|Subs|LAB1|.v files|add_sub_4bit.v</ClosedNode>
+         <ClosedNode>/add_sub_8bit E:|LABs|PROCESSORS|add_sub_4bit.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>PM - Program_Memory</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a1000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a10000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>PM - Program_Memory</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000166000000010000000100000000000000000000000064ffffffff000000810000000000000001000001660000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000166000000010000000100000000000000000000000064ffffffff000000810000000000000001000001660000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Regenerate All Cores</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000166000000010000000100000000000000000000000064ffffffff000000810000000000000001000001660000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Regenerate All Cores</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000166000000010000000100000000000000000000000064ffffffff000000810000000000000001000001660000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000eb0000005a01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000166000000010000000100000000000000000000000064ffffffff000000810000000000000001000001660000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>
