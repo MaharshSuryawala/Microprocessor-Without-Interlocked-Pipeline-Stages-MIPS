@@ -112,13 +112,13 @@ pins and 28 instructions having 5 Addressing formats. Tested on Xilinx Artix-7 F
 
 * Execution Block Simulation Results:
 
-![Execution Block Sim 1](images/execution_block_sim_1.png)
+![Execution Block Sim 1](images/execution_block_sim_1.PNG)
 
-![Execution Block Sim 2](images/execution_block_sim_2.png)
+![Execution Block Sim 2](images/execution_block_sim_2.PNG)
 
-![Execution Block Sim 3](images/execution_block_sim_3.png)
+![Execution Block Sim 3](images/execution_block_sim_3.PNG)
 
-![Execution Block Sim 4](images/execution_block_sim_4.png)
+![Execution Block Sim 4](images/execution_block_sim_4.PNG)
 
 ### Program Counter and Instruction Memory Block
 
@@ -139,7 +139,7 @@ pins and 28 instructions having 5 Addressing formats. Tested on Xilinx Artix-7 F
 
 * Program Counter and Instruction Memory Block Simulation Results:
 
-![PC and IM Sim](images/pm_sim.png)
+![PC and IM Sim](images/pm_sim.PNG)
 
 * Note:
   * The memory data for each address can be written in the COE file. The COE file can be generated using Xilinx ISE. The ROM_data.txt is present in the repository.
@@ -161,7 +161,7 @@ pins and 28 instructions having 5 Addressing formats. Tested on Xilinx Artix-7 F
 
 * Register Bank Simulation Results:
 
-![RB Sim](images/rb_block_sim.png)
+![RB Sim](images/rb_block_sim.PNG)
 
 ### Data Memory Block
 
@@ -192,7 +192,7 @@ pins and 28 instructions having 5 Addressing formats. Tested on Xilinx Artix-7 F
 
 Stall Control Block Simulation Results:
 
-![SC Sim](images/sc_sim.png)
+![SC Sim](images/sc_sim.PNG)
 
 ### Write Back Block
 
@@ -213,7 +213,7 @@ Stall Control Block Simulation Results:
 
 * Jump Control Block Simulation Results:
 
-![JC Sim](images/jc_sim.png)
+![JC Sim](images/jc_sim.PNG)
 
 ### Dependency Check Block
 
@@ -225,18 +225,18 @@ Stall Control Block Simulation Results:
 
 * Dependency Check Block Simulation Results:
 
-![DC Sim](images/dependency_check_sim.png)
+![DC Sim](images/dependency_check_sim.PNG)
 
 <!-- Simulation Results -->
 ## Simulation Results
 
 * Addition 
 
-![Addition](images/Addition.png)
+![Addition](images/Addition.PNG)
 
 * Multiplication
 
-![Multiplication](images/Multiplication.png)
+![Multiplication](images/Multiplication.PNG)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
