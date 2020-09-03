@@ -9,29 +9,31 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-  * [Features](#features)
-  * [Specifications](#specifications)
-  * [Opcodes and Operations](#opcode-and-operations)
-  * [Instruction Formats](#instruction-formats)
-  * [Block Diagram](#block-diagram)
-* [Individual Modules](#individual-modules)
-  * [Arithmetic-Logic Unit](#arithmetic-logic-unit)
-  * [Execution Block](#execution-block)
-  * [Program Counter and Instruction Memory Block](#program-counter-and-instruction-memory-block)
-  * [Register Bank](#register-bank)
-  * [Data Memory Block](#data-memory-block)
-  * [Stall Control Block](#stall-control-block)
-  * [Write Back Block](#write-back-block)
-  * [Jump Control Block](#jump-control-block)
-  * [Dependency Check Block](#dependency-check-block)
-* [Simulation Results](#simulation-results)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+- [Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS](#microprocessor-without-interlocked-pipeline-stages-mips)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+    - [Built With](#built-with)
+    - [Features](#features)
+    - [Specifications](#specifications)
+    - [Opcodes and Operations](#opcodes-and-operations)
+    - [Instruction Formats](#instruction-formats)
+    - [Block Diagram](#block-diagram)
+  - [Individual Modules](#individual-modules)
+    - [Arithmetic-Logic Unit](#arithmetic-logic-unit)
+    - [Execution Block](#execution-block)
+    - [Program Counter and Instruction Memory Block](#program-counter-and-instruction-memory-block)
+    - [Register Bank](#register-bank)
+    - [Data Memory Block](#data-memory-block)
+    - [Stall Control Block](#stall-control-block)
+    - [Write Back Block](#write-back-block)
+    - [Jump Control Block](#jump-control-block)
+    - [Dependency Check Block](#dependency-check-block)
+  - [Simulation Results](#simulation-results)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
 
 
 
@@ -264,12 +266,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
 
-Maharsh Suryawala - [Portfolio](https://maharshsuryawala.github.io/maharshsuryawala/)
-
-Project Link: [https://github.com/MaharshSuryawala/Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS](https://github.com/MaharshSuryawala/Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS)
-
+* Team: 
+  * [Ayush Panara](https://www.linkedin.com/in/ayush-m-panara-a51843154/)
+  * [Jay Patel](https://www.linkedin.com/in/ohdeargodjay/)
+  * [Kahan Majmudar](https://www.linkedin.com/in/kahan-majmudar-095221191/)
+  * [Maharsh Suryawala](https://www.linkedin.com/in/maharsh-suryawala/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
