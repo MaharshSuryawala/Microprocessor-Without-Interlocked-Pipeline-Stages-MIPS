@@ -1,4 +1,4 @@
-# Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS
+# Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS.
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
